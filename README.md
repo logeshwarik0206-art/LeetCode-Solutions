@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0052-n-queens-ii](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
