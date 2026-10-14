@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+## Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
