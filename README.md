@@ -45,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
+| [0518-coin-change-ii](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 ## Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0518-coin-change-ii](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
