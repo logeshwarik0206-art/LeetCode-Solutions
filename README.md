@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0233-number-of-digit-one](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Tree
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
