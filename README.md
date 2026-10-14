@@ -50,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0518-coin-change-ii](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 ## Depth-First Search
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 ## Knapsack Problem
 |  |
