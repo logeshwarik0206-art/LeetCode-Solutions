@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0518-coin-change-ii](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 ## Backtracking
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Depth-First Search
 |  |
@@ -91,5 +93,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
