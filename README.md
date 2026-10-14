@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0233-number-of-digit-one](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 ## Tree
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+## Math
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/logeshwarik0206-art/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
