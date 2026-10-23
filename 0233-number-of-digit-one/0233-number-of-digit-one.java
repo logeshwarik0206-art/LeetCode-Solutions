@@ -1,19 +1,15 @@
 class Solution {
     public int countDigitOne(int n) {
-        int count = 0;
+        long count = 0;
 
-        for (long place = 1; place <= n; place *= 10) {
-            long divisor = place * 10;
-            long quotient = n / divisor;
-            long remainder = n % divisor;
+        for (long i = 1; i <= n; i *= 10) {
+            long divider = i * 10;
 
-            count += quotient * place;
-
-            if (remainder >= place) {
-                count += Math.min(remainder - place + 1, place);
-            }
+            count += (n / divider) * i
+                   + Math.min(Math.max(n % divider - i + 1,
+                                       0), i);
         }
 
-        return count;
+        return (int) count;
     }
 }
